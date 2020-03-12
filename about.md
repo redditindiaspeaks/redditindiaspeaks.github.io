@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-subtitle: IndiaSpeaks : Bharatham Vadathi
+subtitle: IndiaSpeaks
 permalink: /about/
 ---
 
