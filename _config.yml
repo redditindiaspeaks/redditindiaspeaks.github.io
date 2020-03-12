@@ -1,5 +1,5 @@
 # Site settings
-title: Daktilo
+title: India Speaks
 description: >
   Gives you a overall update related to Corona Virus in India. 
   Run by the champs of the reddit sub - India Speaks
@@ -8,10 +8,11 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://redditindiaspeaks.github.io/" # the base hostname & protocol for your site
 
 author:
-  fullname: Motaquillah Maddane
-  googleplus: https://www.google.com/+MotaquillahMaddane
-  github: kronik3r
-  twitter: electrik_frog
+  #fullname: Motaquillah Maddane
+  #googleplus: https://www.google.com/+MotaquillahMaddane
+  github: redditindiaspeaks
+  twitter: rindiaspeaks
+  reddit : r/indiaspeaks
   # disqus: your_disqus_forum_shortname
 
 # google_analytics: 'UA-XXXXXXXX-X'
