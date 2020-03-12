@@ -5,7 +5,7 @@ description: >
   Run by the champs of the reddit sub - India Speaks
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "redditindiaspeaks.github.io" # the base hostname & protocol for your site
+url: "https://redditindiaspeaks.github.io/" # the base hostname & protocol for your site
 
 author:
   fullname: Motaquillah Maddane
